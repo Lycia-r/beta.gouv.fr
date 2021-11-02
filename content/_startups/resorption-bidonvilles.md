@@ -1,5 +1,5 @@
 ---
-title: Résorption-bidonvilles
+title: Résorption Bidonvilles
 mission: Connaître, partager et agir pour résorber les bidonvilles
 owner: Délégation interministérielle à l'hébergement et à l'accès au logement (DIHAL)
 sponsors:
@@ -10,7 +10,7 @@ sponsors:
 incubator: mtes
 repository: https://github.com/MTES-MCT/resorption-bidonvilles
 contact: contact@resorption-bidonvilles.beta.gouv.fr
-stats_url: https://resorption-bidonvilles.beta.gouv.fr/#/statistiques-publiques
+stats_url: https://resorption-bidonvilles.beta.gouv.fr/stats
 link: http://resorption-bidonvilles.beta.gouv.fr/
 stats: true
 phases:
